@@ -1,5 +1,8 @@
 # 📊 NAIDU ECOMMERCE Sales Dashboard
 
+<img width="655" alt="Screenshot 2023-03-18 114715" src="https://github.com/user-attachments/assets/57542973-2880-49e4-b3a3-21823109e17d">
+
+
 A comprehensive business analysis project where I developed a sales dashboard using **Power BI**, **SQL**, and **Python** to help guide business decisions for my friend's father in his eCommerce venture. This project involved analyzing sales data, cleaning it, and visualizing key performance metrics to provide valuable insights.
 
 ## 🛠️ Project Overview
